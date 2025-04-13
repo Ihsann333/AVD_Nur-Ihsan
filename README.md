@@ -1,5 +1,5 @@
 # Nur Ihsan Sistem Informasi B 24
-# Business Understannding
+# Business Understanding
 Business Objective Proyek ini bertujuan untuk mengidentifikasi pola pencetak gol terbaik di liga-liga top dunia serta faktor yang mempengaruhi performa mereka, sehingga klub sepak bola dapat membuat keputusan yang lebih efektif dalam perekrutan pemain dan strategi permainan.
 
 Assess Situation Klub sepak bola sering mengalami kesulitan dalam menilai performa pencetak gol terbaik secara objektif, yang dapat menyebabkan keputusan transfer yang kurang tepat dan strategi permainan yang tidak optimal. Analisis berbasis data diperlukan untuk memahami pola performa pemain dan mengoptimalkan strategi tim.
